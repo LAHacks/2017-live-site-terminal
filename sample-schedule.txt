@@ -1,0 +1,9 @@
+<table>
+  <tr>
+    <th colspan='2'>Schedule</th>
+  </tr>
+  <tr>
+    <td rowspan='2'>4:00 - 6:00PM</td>
+    <td>SPONSOR CHECK IN<br/>@ Pauley Pavilion NW Entrance</td>
+  </tr>
+</table>

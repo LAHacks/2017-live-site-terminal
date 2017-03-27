@@ -1,0 +1,24 @@
+#shell-panel {
+    height: 200px;
+    width: 100%;
+    background-color: #002f05;
+    color: #00fe00;
+    padding: 20px 20px 20px 20px;
+    font-family: 'Source Code Pro';
+    overflow: scroll;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    border: 1px dashed #E6EBE0;
+    font-family: monospace;
+    font-size: 1.2em;
+}
+#shell-panel table, #shell-panel table th, #shell-panel table td {
+  font-family: 'Source Code Pro';
+  font-family: monospace;
+  font-size: 1em;
+  color: #00fe00;
+}
+#shell-panel table td,#shell-panel table th{
+  padding: 5px;
+  border: 1px dashed #00fe00;
+}
